@@ -1,0 +1,10 @@
+C:\Users\user\Downloads\quanly\quanly\obj\Debug\quanly.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\quanly\quanly\obj\Debug\quanly.Properties.Resources.resources
+C:\Users\user\Downloads\quanly\quanly\obj\Debug\quanly.csproj.GenerateResource.cache
+C:\Users\user\Downloads\quanly\quanly\obj\Debug\quanly.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\quanly\quanly\bin\Debug\quanly.exe.config
+C:\Users\user\Downloads\quanly\quanly\bin\Debug\quanly.exe
+C:\Users\user\Downloads\quanly\quanly\bin\Debug\quanly.pdb
+C:\Users\user\Downloads\quanly\quanly\obj\Debug\quanly.exe
+C:\Users\user\Downloads\quanly\quanly\obj\Debug\quanly.pdb
+C:\Users\user\Downloads\quanly\quanly\obj\Debug\quanly.Quanly.resources
